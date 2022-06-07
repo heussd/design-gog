@@ -1,0 +1,3 @@
+[submodule "cncf-shapes"]
+	path = cncf-shapes
+	url = https://github.com/stormreply/cncf-shapes
