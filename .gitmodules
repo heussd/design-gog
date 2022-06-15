@@ -1,3 +1,9 @@
 [submodule "cncf-shapes"]
 	path = cncf-shapes
 	url = https://github.com/stormreply/cncf-shapes
+[submodule "hashicorp-draw-io"]
+	path = hashicorp-draw-io
+	url = https://github.com/dwp/hashicorp-draw-io
+[submodule "simple-icons"]
+	path = simple-icons
+	url = https://github.com/simple-icons/simple-icons
