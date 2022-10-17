@@ -7,3 +7,6 @@
 [submodule "simple-icons"]
 	path = simple-icons
 	url = https://github.com/simple-icons/simple-icons
+[submodule "feather"]
+	path = feather
+	url = https://github.com/feathericons/feather
